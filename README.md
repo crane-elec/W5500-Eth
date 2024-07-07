@@ -1,2 +1,2 @@
-# W5500-Eth
-W5500-Eth library for Spresense.
+# W5500_SPR
+W5500-Ether library for Spresense.
